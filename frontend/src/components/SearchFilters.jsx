@@ -6,7 +6,7 @@ const styles = {
   input:
     "w-full border border-gray-300 p-2 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none",
   button:
-    "bg-blue-600 text-white font-semibold px-6 py-3 rounded-lg hover:bg-blue-700 transition-all duration-300",
+    "mt-5 bg-blue-600 text-white font-semibold px-6 py-3 rounded-lg hover:bg-blue-700 transition-all duration-300 cursor-pointer",
 };
 
 const SearchFilters = ({ filters, onChange, onSearch }) => {
