@@ -7,8 +7,3 @@ A **portfolio project** that demonstrates working knowledge of:
 - API design and documentation (Swagger)  
 - Frontend consumption (can be deployed separately on Vercel)
 
-This project is designed for practice, learning, and showing practical skills on GitHub.
-
----
-
-## 📂 Project Structure
